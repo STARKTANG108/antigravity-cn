@@ -45,7 +45,7 @@
 打开 macOS 终端（Terminal / iTerm2），执行以下一键安装命令：
 
 ```bash
-git clone https://github.com/<your-username>/antigravity-cn.git ~/antigravity-cn
+git clone https://github.com/STARKTANG108/antigravity-cn.git ~/antigravity-cn
 cd ~/antigravity-cn
 chmod +x install.sh
 ./install.sh
@@ -61,7 +61,7 @@ chmod +x install.sh
 
 1. 克隆或下载本项目：
    ```bash
-   git clone https://github.com/<your-username>/antigravity-cn.git
+   git clone https://github.com/STARKTANG108/antigravity-cn.git
    cd antigravity-cn
    ```
 2. 复制 `web_bundle` 资源文件夹到 Antigravity 应用程序的 `Resources` 目录：
